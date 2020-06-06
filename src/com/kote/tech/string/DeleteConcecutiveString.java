@@ -4,6 +4,10 @@ public class DeleteConcecutiveString {
 	
 	static int deleteConcecutiveString(String s) {
 		
+		int[] iarr = new int[10];
+		
+
+		
 		char[] carr = s.toCharArray();
 		int count = 0;
 		
