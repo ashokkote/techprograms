@@ -3,7 +3,7 @@ package com.kote.tech.math;
 public class EvenFibnocciSum {
 	
 	public int calculateSumOfEvenFibnocci(int range) {
-		
+		 
 		int sum = 0;
 		int evensum = 0;	
 		int previousNumber = 0;
@@ -34,7 +34,7 @@ public class EvenFibnocciSum {
 		
 		EvenFibnocciSum sumOfFibnocci = new EvenFibnocciSum();
 		
-		int sum = sumOfFibnocci.calculateSumOfEvenFibnocci(20);
+		int sum = sumOfFibnocci.calculateSumOfEvenFibnocci(10);
 		
 		System.out.println("Even Sum = "+sum);
 		

@@ -17,7 +17,7 @@ public class DeleteConcecutiveString {
 		}		
 		return count;
 		
-	}
+	} 
 	
 	
 	

@@ -42,7 +42,7 @@ import java.util.List;
 		
 		LargestPrimeFactor largestFactor = new LargestPrimeFactor();
 		
-		List<Double> primeFactors = largestFactor.calculatePrimeFactors(600851475143.0);
+		List<Double> primeFactors = largestFactor.calculatePrimeFactors(200.0);
 		
 		for(double factor : primeFactors){
 			System.out.println(factor);
