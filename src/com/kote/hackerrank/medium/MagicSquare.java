@@ -1,4 +1,4 @@
-package com.kote.hackerrank.easy;
+package com.kote.hackerrank.medium;
 
 import java.io.*;
 import java.math.*;

@@ -1,3 +1,4 @@
+package com.kote.hackerrank.easy;
 import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.Collections;
@@ -6,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class MoreHacknRack2 {
+public class MultipleProblems {
 
 	static String kangaroo(int x1, int v1, int x2, int v2) {
 
